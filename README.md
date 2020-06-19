@@ -1,2 +1,2 @@
 # Personal website / portfolio
-[kuubeu.github.io]{http://kuubeu.github.io/}
+[kuubeu.github.io](http://kuubeu.github.io/)
